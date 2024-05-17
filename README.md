@@ -1,11 +1,9 @@
-
 <img width="740" alt="Screen Shot 2024-05-15 at 9 10 07 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/f6e6ab8a-f854-475c-a858-ccbc5b94f7c7">
-
 <img width="871" alt="Screen Shot 2024-05-15 at 9 12 35 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/73aea307-f2c6-48e0-8f86-75a467591c1b">
 <img width="880" alt="Screen Shot 2024-05-15 at 9 20 29 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/74f8ebf2-a2fc-4924-a58b-d359af256f8f">
 <img width="889" alt="Screen Shot 2024-05-15 at 9 20 59 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/32988426-86f9-45c5-b4b4-b9fee8ee4c02">
 <img width="1154" alt="Screen Shot 2024-05-15 at 9 10 55 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/59adfc40-ee54-46df-b2a0-02a299af63a4">
-
+<img width="881" alt="Screen Shot 2024-05-15 at 9 13 16 PM" src="https://github.com/AliceGonzalez/MoneyManagementApp/assets/144973566/760bf1af-60d9-40e3-b82c-25880a4ffcdc">
 
 
 Project Structure
